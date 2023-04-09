@@ -8,7 +8,7 @@
 
 <!-- - 🌱 I’m currently learning **Deep Learning Algo** -->
 <!-- <br><br> -->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/85986613/230782745-5bdea007-4fa3-4eeb-89ac-fc2d4d48f6bb.gif" width=400 />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/85986613/230783742-15c08283-b670-415a-8d19-b92b3d2bf2ac.gif" width=400 />
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
