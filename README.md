@@ -38,7 +38,7 @@
  <br><br>
 
 <p align="center">
-  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=Aneesh-07&theme=dracula&cache_seconds=30&hide_border=true"/>&nbsp;&nbsp;&nbsp;
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Aneesh-07&theme=dracula&cache_seconds=30&hide_border=true"/>&nbsp;&nbsp;&nbsp;
   <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aneesh-07&theme=dracula&cache_seconds=30&hide_border=true"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aneesh-07&theme=dracula"/>
 </p>
