@@ -8,7 +8,7 @@
 
 <!-- - 🌱 I’m currently learning **Deep Learning Algo** -->
 <!-- <br><br> -->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/85986613/230783742-15c08283-b670-415a-8d19-b92b3d2bf2ac.gif" width=400 />
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966" width=500 />
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
@@ -38,9 +38,9 @@
  <br><br>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Aneesh-07&theme=dracula&cache_seconds=30&hide_border=true"/>&nbsp;&nbsp;&nbsp;
-  <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aneesh-07&theme=dracula&cache_seconds=30&hide_border=true"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aneesh-07&theme=dracula"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Aneesh-07&theme=github_dark&cache_seconds=30&hide_border=true"/>&nbsp;&nbsp;&nbsp;
+  <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aneesh-07&theme=github_dark&cache_seconds=30&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aneesh-07&theme=github_dark"/>
 </p>
 
 
